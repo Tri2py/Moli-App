@@ -1,0 +1,6 @@
+{
+  "name": "Daily Moli",
+  "description": "A premium glassmorphism productivity dashboard and task manager inspired by Apple, Notion, Linear, and Arc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
